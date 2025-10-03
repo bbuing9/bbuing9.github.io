@@ -1,5 +1,6 @@
 ---
 layout: page
+title: members
 permalink: /members/
 nav: true
 nav_order: 2      # adjust based on your menu ordering
