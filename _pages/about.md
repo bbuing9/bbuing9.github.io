@@ -2,19 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,8 +17,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Welcome to the Machine and Language Learning Lab at Yonsei AI.** Our mission is to advance AI by combining computational methods with insights derived from human cognition and development, particularly those rooted in social cognition. We believe humans are set apart by our ability to efficiently learn from others and share knowledge through social interaction. Drawing inspiration from this, we explore how machines can understand, reason, learn, and interact through language in diverse environments that require social intelligence—powered by brighter algorithms and sharper data, ultimately bending the scaling curve.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our current research interests include (but are not limited to):
+- Reasoning in social contexts and knowledge-intensive contexts.
+- Scalable learning through data synthesis and curriculum.
+- Systematic evaluation of cognitive behaviors in foundation models.
+- Agents engaging in social interactions in various environments (e.g., chat and games).
