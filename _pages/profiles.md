@@ -21,8 +21,10 @@ nav_order: 2      # adjust based on your menu ordering
   </div>
 </div>
 
+<div class="my-5"></div>
+
 <!-- Current members section -->
-## Current Members {: .mt-5}
+## Current Members
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-4">
 
@@ -91,8 +93,10 @@ nav_order: 2      # adjust based on your menu ordering
   </div>
 </div>
 
+<div class="my-5"></div>
+
 <!-- Alumni section -->
-## Alumni {: .mt-5}
+## Alumni
 
 <ul>
   <li><strong>Temp</strong> – Temp</li>
