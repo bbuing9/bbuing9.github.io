@@ -21,8 +21,6 @@ nav_order: 2      # adjust based on your menu ordering
   </div>
 </div>
 
-<div class="my-5"></div>
-
 <!-- Current members section -->
 ## Current Members
 
@@ -92,8 +90,6 @@ nav_order: 2      # adjust based on your menu ordering
     <small class="text-muted">MS at Yonsei</small>
   </div>
 </div>
-
-<div class="my-5"></div>
 
 <!-- Alumni section -->
 ## Alumni
