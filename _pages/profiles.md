@@ -1,6 +1,5 @@
 ---
 layout: page
-title: members
 permalink: /members/
 nav: true
 nav_order: 2      # adjust based on your menu ordering
@@ -14,13 +13,16 @@ nav_order: 2      # adjust based on your menu ordering
   <div class="col text-center">
     <img src="/assets/img/jaehyungkim_profile.jpg"
          alt="Jaehyung Kim" class="img-fluid rounded mb-2">
-    <h5 class="mb-0">Jaehyung Kim</h5>
+    <h5 class="mb-0">
+      <a href="https://sites.google.com/view/jaehyungkim"
+         target="_blank" rel="noopener">Jaehyung Kim</a>
+    </h5>
     <small class="text-muted">Assistant Professor</small>
   </div>
 </div>
 
 <!-- Current members section -->
-## Current Members
+## Current Members {: .mt-5}
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-4">
 
@@ -90,7 +92,7 @@ nav_order: 2      # adjust based on your menu ordering
 </div>
 
 <!-- Alumni section -->
-## Alumni
+## Alumni {: .mt-5}
 
 <ul>
   <li><strong>Temp</strong> – Temp</li>
