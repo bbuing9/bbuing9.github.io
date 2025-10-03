@@ -1,42 +1,30 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: members
 nav: true
-nav_order: 7
+nav_order: 2 # I've changed this to a common order for a "People" page
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: temp.md
-    image_circular: false # crops the image to make it circular
+  # --------------------------- FACULTY ---------------------------
+  - title: Faculty
+  - image: prof_pic.jpg # Replace with your actual image file
+    image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: temp.md
-    image_circular: false # crops the image to make it circular
+      <p>Jaehyung Kim</p>
+      <p>Assistant Professor</p>
+    # content: temp.md # Optional: for a detailed profile page
+
+  # ----------------------- CURRENT MEMBERS -----------------------
+  - title: Current Members
+  - image: prof_pic.jpg
+    image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-    image: prof_pic.jpg
-    content: temp.md
-    image_circular: false # crops the image to make it circular
+      <p>A</p>
+      <p>B</p>
+  - image: prof_pic.jpg
+    image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-    image: prof_pic.jpg
-    content: temp.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>A</p>
+      <p>B</p>
 ---
