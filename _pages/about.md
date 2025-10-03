@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 profile:
-  align: center
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
@@ -17,10 +17,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-**Welcome to the Machine and Language Learning Lab at Yonsei AI.** Our mission is to advance AI by combining computational methods with insights derived from human cognition and development, particularly those rooted in social cognition. We believe humans are set apart by our ability to efficiently learn from others and share knowledge through social interaction. Drawing inspiration from this, we explore how machines can understand, reason, learn, and interact through language in diverse environments that require social intelligence—powered by brighter algorithms and sharper data, ultimately bending the scaling curve.
+**Welcome to the Machine and Language Learning Lab (ML3) at Yonsei AI.** Our mission is to build intelligent yet human-aligned AI system, by developing machine learning algorithms using language as a main tool for this. 
 
-Our current research interests include (but are not limited to):
-- Reasoning in social contexts and knowledge-intensive contexts.
-- Scalable learning through data synthesis and curriculum.
-- Systematic evaluation of cognitive behaviors in foundation models.
-- Agents engaging in social interactions in various environments (e.g., chat and games).
+Recently, we’re mainly working on large language models (LLMs) include the below topics, but are not limited to: 
+- Alignment (e.g., personalization) and Safety
+- Reasoning and Self-improvement
+- Efficiency and Adaptation
+- Extension toward Multi-modality
