@@ -52,15 +52,19 @@ body.sticky-bottom-footer {
 
 // TODO: redefine projects layout.
 
-/* "no-title" 클래스가 있는 페이지의 큰 제목을 숨깁니다 */
-.no-title {
-  /* "members", "publications" 같은 제목 헤더를 숨김 */
-  .post-header {
-    display: none;
-  }
+// --- custom: logo size ------------------
 
-  /* 제목이 사라진 만큼의 여백을 콘텐츠 위에 추가 */
-  .post-content {
-    margin-top: 2rem;
-  }
+.site-logo {
+  height: 28px;   // 로고 높이 (원하면 24, 32 등으로 조절)
+  width: auto;
+  display: inline-block;
+}
+
+.navbar-brand.title {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand.title .site-logo {
+  margin-right: 0.4rem;  // 로고와 텍스트 사이 간격
 }
