@@ -28,13 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-two-papers-robot-r1-and-dllm-conv-are-accepted-to-neurips-2025-including-spotlight-presentation-207-21575-3-19",
           title: 'Two papers (Robot-R1 and DLLM-Conv) are accepted to NeurIPS 2025 including Spotlight Presentation...',
+          description: "",
+          section: "News",},{id: "news-jaehyung-will-serves-as-an-area-chair-for-neurips-2025-iclr-2026-arr-2025-oct",
+          title: 'Jaehyung will serves as an Area Chair for NeurIPS 2025, ICLR 2026, ARR...',
           description: "",
           section: "News",},{id: "news-finally-homepage-for-yonsei-ml3-is-now-open",
           title: 'Finally, homepage for Yonsei-ML3 is now open!',
