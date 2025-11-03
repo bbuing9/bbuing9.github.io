@@ -2,13 +2,6 @@
 layout: page
 title: apply
 permalink: /apply/
-
-# This page uses the same basic layout as the about page to keep styling consistent.
-# You can enable or disable sections as needed.
-selected_papers: false
-social: false
-announcements:
-  enabled: false
 ---
 
 ## About ML3
