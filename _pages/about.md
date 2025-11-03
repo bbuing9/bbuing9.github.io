@@ -1,23 +1,23 @@
 ---
-layout: about
-title: about
+layout: page
 permalink: /
+title: " "  
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-  more_news_text: View More
-  more_new_url: /news/
+selected_papers: false
+social: false
 ---
 
-**Welcome to the Machine and Language Learning Lab (ML3) at Yonsei AI.** Our mission is to build intelligent yet human-aligned AI system, by developing machine learning algorithms using language as a main tool for this. 
+**Welcome to the Machine and Language Learning Lab (ML3) at Yonsei AI.** Our mission is to build intelligent yet human-aligned AI system, by developing machine learning algorithms using language as a main tool for this. 
 
 Recently, we’re mainly working on large language models (LLMs) include the below topics, but are not limited to: 
 - Alignment (e.g., personalization) and Safety
 - Reasoning and Self-improvement
 - Efficiency and Adaptation
 - Extension toward Multi-modality
+
+---
+
+<div class="news">
+  <h2>news</h2>
+  {% include news.liquid limit=5 more_news_text="View More" more_news_url="/news/" %}
+</div>
