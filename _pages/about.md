@@ -18,6 +18,10 @@ Recently, we’re mainly working on large language models (LLMs) include the bel
 ---
 
 <div class="news">
-  <h2>news</h2>
-  {% include news.liquid limit=5 scrollable=true more_news_text="View More" more_news_url="/news/" %}
+  <div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <h2>news</h2>
+    <a href="/news/" style="font-size: 1rem; font-weight: 500;">(show all)</a>
+  </div>
+  
+  {% include news.liquid limit=5 scrollable=true %}
 </div>
