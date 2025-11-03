@@ -10,6 +10,8 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
+  more_news_text: View More
+  more_new_url: /news/
 ---
 
 **Welcome to the Machine and Language Learning Lab (ML3) at Yonsei AI.** Our mission is to build intelligent yet human-aligned AI system, by developing machine learning algorithms using language as a main tool for this. 
