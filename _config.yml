@@ -4,6 +4,8 @@
 
 title: yonsei-ml3 # the website title (if blank, full name will be used instead)
 logo: /assets/img/ml3_logo_final.png
+brand_line1: "Machine & Language"
+brand_line2: "Learning Lab @ Yonsei"
 first_name:
 middle_name:
 last_name: ML3
