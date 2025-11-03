@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: yonsei-ml3 # the website title (if blank, full name will be used instead)
+logo: /assets/img/ml3_symb_fin.png
 first_name:
 middle_name:
 last_name: ML3
