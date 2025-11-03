@@ -19,5 +19,5 @@ Recently, we’re mainly working on large language models (LLMs) include the bel
 
 <div class="news">
   <h2>news</h2>
-  {% include news.liquid limit=5 more_news_text="View More" more_news_url="/news/" %}
+  {% include news.liquid limit=5 scrollable=true more_news_text="View More" more_news_url="/news/" %}
 </div>
