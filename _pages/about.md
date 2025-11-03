@@ -20,9 +20,9 @@ Recently, we’re mainly working on large language models (LLMs) include the bel
 ---
 
 <div class="news">
-  <div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div style="display: flex; align-items: baseline;">
     <h2>news</h2>
-    <a href="/news/" style="font-size: 1rem; font-weight: 500;">(show all)</a>
+    <a href="/news/" style="font-size: 1rem; font-weight: 500; margin-left: 0.75rem;">(show all)</a>
   </div>
   
   {% include news.liquid limit=5 scrollable=true %}
