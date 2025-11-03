@@ -1,7 +1,9 @@
 ---
 layout: page
-title: apply
+title: Join Us
 permalink: /apply/
+nav: true
+nav_order: 4
 ---
 
 ## About ML3
