@@ -1,0 +1,42 @@
+<nav class="navbar navbar-expand-sm navbar-light fixed-top navbar-b-b-0" role="navigation">
+  <div class="container-fluid">
+    <div class="row w-100">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbar-collapse"
+        aria-controls="navbar-collapse"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">
+        <img src="/assets/img/ml3_symb_fin.png" alt="logo" style="height: 2rem; margin-right: 0.5rem; vertical-align: middle;">
+        
+        <span style="vertical-align: middle;">{{ site.title }}</span>
+      </a>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+          {%- assign page_paths = site.pages | map: "path" -%}
+          {%- assign pages_to_nav = site.pages | where: "nav", "true" | sort: "nav_order" -%}
+          {%- for p in pages_to_nav -%}
+            {%- include nav_list_item.liquid page=p -%}
+          {%- endfor -%}
+        </ul>
+        <div class="navbar-nav ms-auto">
+          {%- if site.search_enabled -%}
+            {%- include search_button.liquid -%}
+          {%- endif -%}
+          {%- include theme_toggle.liquid -%}
+          {%- if site.enable_navbar_social -%}
+            {%- include social.liquid -%}
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
