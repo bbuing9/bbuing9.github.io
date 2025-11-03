@@ -4,6 +4,7 @@ title: members
 permalink: /members/
 nav: true
 nav_order: 2      # adjust based on your menu ordering
+page_class: no-title
 ---
 
 <!-- Faculty section -->
