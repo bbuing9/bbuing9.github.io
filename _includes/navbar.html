@@ -14,27 +14,19 @@
       </button>
 
       <a class="navbar-brand" href="{{ '/' | relative_url }}">
-        <img src="/assets/img/ml3_symb_fin.png" alt="logo" style="height: 2rem; margin-right: 0.5rem; vertical-align: middle;">
-        
-        <span style="vertical-align: middle;">{{ site.title }}</span>
+        <img src="/assets/img/ml3_symb_fin.png" alt="logo" style="height: 2rem; margin-right: 0.5rem; vertical-align: middle" />
+
+        <span style="vertical-align: middle">{{ site.title }}</span>
       </a>
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="navbar-nav ms-auto">
-          {%- assign page_paths = site.pages | map: "path" -%}
-          {%- assign pages_to_nav = site.pages | where: "nav", "true" | sort: "nav_order" -%}
-          {%- for p in pages_to_nav -%}
-            {%- include nav_list_item.liquid page=p -%}
-          {%- endfor -%}
+          {%- assign page_paths = site.pages | map: "path" -%} {%- assign pages_to_nav = site.pages | where: "nav", "true" | sort: "nav_order" -%} {%-
+          for p in pages_to_nav -%} {%- include nav_list_item.liquid page=p -%} {%- endfor -%}
         </ul>
         <div class="navbar-nav ms-auto">
-          {%- if site.search_enabled -%}
-            {%- include search_button.liquid -%}
-          {%- endif -%}
-          {%- include theme_toggle.liquid -%}
-          {%- if site.enable_navbar_social -%}
-            {%- include social.liquid -%}
-          {%- endif -%}
+          {%- if site.search_enabled -%} {%- include search_button.liquid -%} {%- endif -%} {%- include theme_toggle.liquid -%} {%- if
+          site.enable_navbar_social -%} {%- include social.liquid -%} {%- endif -%}
         </div>
       </div>
     </div>

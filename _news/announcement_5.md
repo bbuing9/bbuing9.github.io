@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers (**MSR** and **PFP**) are accepted to ACL 2025!  
+Two papers (**MSR** and **PFP**) are accepted to ACL 2025!

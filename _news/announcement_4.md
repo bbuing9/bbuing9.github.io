@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers (**CoPe**, **PriME** and **CLEANMOL**) are accepted to EMNLP 2025 including *Oral Presentation (357/3548=10.0%)*. See you in Suzhou :cn:!  
+Three papers (**CoPe**, **PriME** and **CLEANMOL**) are accepted to EMNLP 2025 including _Oral Presentation (357/3548=10.0%)_. See you in Suzhou :cn:!

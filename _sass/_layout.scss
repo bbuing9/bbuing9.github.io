@@ -54,7 +54,6 @@ body.sticky-bottom-footer {
 
 /* "no-title" 클래스가 있는 페이지의 큰 제목을 숨깁니다 */
 .no-title {
-
   /* "members", "publications" 같은 제목 헤더를 숨김 */
   .post-header {
     display: none;
@@ -62,6 +61,6 @@ body.sticky-bottom-footer {
 
   /* 제목이 사라진 만큼의 여백을 콘텐츠 위에 추가 */
   .post-content {
-    margin-top: 2rem; 
+    margin-top: 2rem;
   }
 }

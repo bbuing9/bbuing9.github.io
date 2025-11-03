@@ -3,11 +3,12 @@ layout: page
 title: members
 permalink: /members/
 nav: true
-nav_order: 2      # adjust based on your menu ordering
+nav_order: 2 # adjust based on your menu ordering
 page_class: no-title
 ---
 
 <!-- Faculty section -->
+
 ## Faculty
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-4">
@@ -26,6 +27,7 @@ page_class: no-title
 <div class="my-5"></div>
 
 <!-- Current members section -->
+
 ## Current Members
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-4">
@@ -98,6 +100,7 @@ page_class: no-title
 <div class="my-5"></div>
 
 <!-- Alumni section -->
+
 ## Alumni
 
 <ul>
