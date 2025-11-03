@@ -28,15 +28,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-finally-homepage-for-yonsei-ml3-is-now-open",
+            },},{id: "news-two-papers-robot-r1-and-dllm-conv-are-accepted-to-neurips-2025-including-spotlight-presentation-207-21575-3-19",
+          title: 'Two papers (Robot-R1 and DLLM-Conv) are accepted to NeurIPS 2025 including Spotlight Presentation...',
+          description: "",
+          section: "News",},{id: "news-finally-homepage-for-yonsei-ml3-is-now-open",
           title: 'Finally, homepage for Yonsei-ML3 is now open!',
           description: "",
           section: "News",},{id: "projects-project-1",
