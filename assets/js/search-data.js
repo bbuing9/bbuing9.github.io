@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-revise-is-accepted-to-icml-2025",
-          title: 'ReVise is accepted to ICML 2025!',
-          description: "",
-          section: "News",},{id: "news-two-papers-msr-and-pfp-are-accepted-to-acl-2025",
+            },},{id: "news-two-papers-msr-and-pfp-are-accepted-to-acl-2025",
           title: 'Two papers (MSR and PFP) are accepted to ACL 2025!',
           description: "",
           section: "News",},{id: "news-three-papers-cope-prime-and-cleanmol-are-accepted-to-emnlp-2025-including-oral-presentation-357-3548-10-0-see-you-in-suzhou-cn",
