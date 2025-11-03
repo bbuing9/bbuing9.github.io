@@ -28,17 +28,6 @@
             </td>
           </tr>
         {% endfor %}
-
-        {% if include.more_news_text and include.more_news_url %}
-          {% if news_size > news_limit %}
-            <tr>
-              <th scope="row" style="width: 20%"></th>
-              <td>
-                <a class="news-more-news-link" href="{{ include.more_news_url | relative_url }}">{{ include.more_news_text }}</a>
-              </td>
-            </tr>
-          {% endif %}
-        {% endif %}
       </table>
     </div>
   {% else %}
