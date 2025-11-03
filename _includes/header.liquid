@@ -2,10 +2,10 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-            <!-- Brand (icon + text) -->
+      <!-- Brand (logo + text) -->
       <a class="navbar-brand title font-weight-lighter d-flex align-items-center" href="{{ site.baseurl }}/">
         {% if site.logo %}
-          <img src="{{ site.icon | relative_url }}" alt="{{ site.title }} icon" class="site-icon mr-2">
+          <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" class="site-logo mr-2">
         {% endif %}
 
         {% if site.title == 'blank' %}
