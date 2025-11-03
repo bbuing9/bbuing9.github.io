@@ -74,3 +74,9 @@ body.sticky-bottom-footer {
   line-height: 1.1;
   font-size: 0.85rem; // 필요하면 0.95 ~ 1.1 사이로 조절
 }
+
+.theme-light .post hr {
+  border: 0;
+  border-top: 1px solid var(--global-theme-color);
+  opacity: 0.4;  // 줄을 더 연하게
+}
