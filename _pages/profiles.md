@@ -29,6 +29,7 @@ page_class: no-title
   <li><strong>Hyunjin Cho</strong> - MS/Ph.D. (2025 Fall)</li>
   <li><strong>Minseo Kwak</strong> - MS (2025 Fall)</li>
   <li><strong>Minjoo Kwak</strong> - MS (2025 Fall)</li>
+  <li><strong>Youngbin Seo</strong> - Visiting Scholar</li>
 </ul>
 
 <!-- Alumni section -->
