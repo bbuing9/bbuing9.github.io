@@ -206,6 +206,12 @@
       {{ periodical_with_note | strip }}
     </div>
 
+    {% if entry.highlight %}
+      <div class="pub-highlight">
+        {{ entry.highlight | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
