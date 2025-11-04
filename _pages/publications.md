@@ -15,6 +15,10 @@ page_class: no-title
 
 <div class="publications">
 
+<p class="author-note">
+  <sup>*</sup> denotes equal contribution.
+</p>
+
 {% bibliography %}
 
 </div>
