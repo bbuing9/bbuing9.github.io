@@ -80,3 +80,13 @@ body.sticky-bottom-footer {
   border-top: 1px solid var(--global-theme-color);
   opacity: 0.4;  // 줄을 더 연하게
 }
+
+.author-note {
+  font-size: 0.85rem;
+  color: #777;
+  margin-bottom: 0.75rem;
+}
+
+.author-note sup {
+  font-size: 0.75em;
+}
