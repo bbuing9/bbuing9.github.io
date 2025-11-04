@@ -15,7 +15,7 @@ page_class: no-title
 
 <div class="publications">
 
-<p class="author-note">
+<p class="author-note" style="color:red; font-size:20px;">
   <sup>*</sup> denotes equal contribution.
 </p>
 
