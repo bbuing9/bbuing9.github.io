@@ -90,3 +90,11 @@ body.sticky-bottom-footer {
 .author-note sup {
   font-size: 0.75em;
 }
+
+.pub-highlight {
+  margin-top: 0.15rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #d32f2f;      // 전체를 빨간 기울임으로
+}
