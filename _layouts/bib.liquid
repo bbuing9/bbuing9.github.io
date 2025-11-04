@@ -177,15 +177,29 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% capture periodical %}
+      {{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}
+    {% endcapture %}
+    
+    {% assign periodical_str = periodical | strip %}
+    {% assign note_clean = entry.note | strip %}
     
     {% capture periodical_with_note %}
-      {% assign note_clean = entry.note | strip %}
-      {% if note_clean != "" %}
-        {{ note_clean }}
-        {% if entryyear != "" %}, {% endif %}
-      {% endif %}
-      {{ entrymonth }}{{ entryyear }}
+      {%- if entry.type == 'misc' -%}
+        {%- comment -%}
+          misc인 경우: "arXiv preprint, 2025" 처럼 note 먼저, 그 다음 year/기타 정보
+        {%- endcomment -%}
+        {%- if note_clean != "" -%}
+          {{ note_clean }}{%- if periodical_str != "" -%}, {{ periodical_str }}{%- endif -%}
+        {%- else -%}
+          {{ periodical_str }}
+        {%- endif -%}
+      {%- else -%}
+        {%- comment -%}
+          나머지 타입: 원래처럼 "In NeurIPS, 2025" 뒤에 note 가 있으면 ", arXiv preprint" 추가
+        {%- endcomment -%}
+        {{ periodical_str }}{%- if note_clean != "" and periodical_str != "" -%}, {{ note_clean }}{%- elsif note_clean != "" -%}{{ note_clean }}{%- endif -%}
+      {%- endif -%}
     {% endcapture %}
     
     <div class="periodical">
