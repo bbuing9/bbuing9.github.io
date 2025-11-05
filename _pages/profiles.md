@@ -11,37 +11,35 @@ page_class: no-title
 
 ### Faculty
 
-- **[Jaehyung Kim](https://sites.google.com/view/jaehyungkim)** - Assistant Professor @ Yonsei AI</li>
+- **[Jaehyung Kim](https://sites.google.com/view/jaehyungkim)** - Assistant Professor @ Yonsei AI
 
 <!-- Current members section -->
 
 ### Graduate Students 
 
-<ul>
-  <li><strong>Hamin Koo</strong> - MS (2025 Spring)</li>
-  <li><strong>Hojin Kim</strong> - MS (2025 Spring)</li>
-  <li><strong>Jinhyeong Kim</strong> - MS (2025 Spring)</li>
-  <li><strong>Beomsik Cho</strong> - MS (2025 Spring)</li>
-  <li><strong>Dongseok Lee</strong> - MS (2025 Fall)</li>
-  <li><strong>Hyungjun Boo</strong> - MS/Ph.D. (2025 Fall)</li>
-  <li><strong>Hyunjin Cho</strong> - MS/Ph.D. (2025 Fall)</li>
-  <li><strong>Minseo Kwak</strong> - MS (2025 Fall)</li>
-  <li><strong>Minjoo Kwak</strong> - MS (2025 Fall)</li>
-  <li><strong>Youngbin Seo</strong> - Visiting Scholar</li>
-</ul>
+- **Hamin Koo** - MS (2025 Spring)
+- **Hojin Kim** - MS (2025 Spring)
+- **Jinhyeong Kim** - MS (2025 Spring)
+- **Beomsik Cho** - MS (2025 Spring)
+- **Dongseok Lee** - MS (2025 Fall)
+- **Hyungjune Bu** - MS/Ph.D. (2025 Fall)
+- **Hyunjin Cho** - MS/Ph.D. (2025 Fall)
+- **Minseo Kwak** - MS (2025 Fall)
+- **[Minjoo Kwak](https://minjugwak.netlify.app/)** - MS (2025 Fall)
+- **Youngbin Seo** - Visiting Scholar
+
 
 <!-- Alumni section -->
 
 ### Interns 
 
-<ul>
-  <li><strong>Seongyong Park</strong> @ Yonsei CS</li>
-  <li><strong>Minjae Kang</strong> @ SKKU CS</li>
-  <li><strong>Seoyeon Kim</strong> @ Yonsei Applied Statistics</li>
-  <li><strong>Youngji Roh</strong> @ Yonsei Biotechnology</li>
-  <li><strong>Jimyung Hong</strong> @ Yonsei AI</li>
-  <li><strong>Chanjoo Jung</strong> @ Yonsei Econ. and CS</li>
-  <li><strong>Youngjoo Lee</strong> @ Yonsei CS</li>
-  <li><strong>Minsung Cho</strong> @ Yonsei ME and CS</li>
-  <li><strong>Yejun Chun</strong> @ Yonsei AI</li>
-</ul>
+- **Seongyong Park** @ Yonsei CS
+- **Minjae Kang** @ SKKU EE
+- **Seoyeon Kim** @ Yonsei Applied Statistics
+- **Youngji Roh** @ Yonsei Biotechnology
+- **Jimyung Hong** @ Yonsei AI
+- **[Chanjoo Jung](https://sites.google.com/view/chanjoojung/)** @ Yonsei Econ. and CS
+- **Youngjoo Lee** @ Yonsei CS
+- **Minsung Cho** @ Yonsei ME and CS
+- **Yejun Chun** @ Yonsei AI
+
