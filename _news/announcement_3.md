@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally, homepage for Yonsei-ML3 is now open!
+The homepage of ML3 @ Yonsei is now live!
