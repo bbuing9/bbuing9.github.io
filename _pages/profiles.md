@@ -11,9 +11,7 @@ page_class: no-title
 
 ### Faculty
 
-<ul>
-  <li><strong>Jaehyung Kim</strong> - Assistant Professor @ Yonsei AI</li>
-</ul>
+- **[Jaehyung Kim](https://sites.google.com/view/jaehyungkim)** - Assistant Professor @ Yonsei AI</li>
 
 <!-- Current members section -->
 
