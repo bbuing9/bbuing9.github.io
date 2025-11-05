@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "bbuing9/bbuing9.github.io",
+    "data-repo": "ml3-yonsei/ml3-yonsei.github.io",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",
