@@ -20,7 +20,7 @@ page_class: no-title
 - **Hamin Koo** - MS (2025 Spring)
 - **Hojin Kim** - MS (2025 Spring)
 - **Jinhyeong Kim** - MS (2025 Spring)
-- **Beomsik Cho** - MS (2025 Spring)
+- **[Beomsik Cho](https://bscho333.notion.site/)** - MS (2025 Spring)
 - **Dongseok Lee** - MS (2025 Fall)
 - **Hyungjune Bu** - MS/Ph.D. (2025 Fall)
 - **Hyunjin Cho** - MS/Ph.D. (2025 Fall)
@@ -28,18 +28,18 @@ page_class: no-title
 - **[Minjoo Kwak](https://minjugwak.netlify.app/)** - MS (2025 Fall)
 - **Youngbin Seo** - Visiting Scholar
 
-
 <!-- Alumni section -->
 
 ### Interns 
 
-- **Seongyong Park** @ Yonsei CS
-- **Minjae Kang** @ SKKU EE
-- **Seoyeon Kim** @ Yonsei Applied Statistics
-- **Youngji Roh** @ Yonsei Biotechnology
-- **Jimyung Hong** @ Yonsei AI
-- **[Chanjoo Jung](https://sites.google.com/view/chanjoojung/)** @ Yonsei Econ. and CS
-- **Youngjoo Lee** @ Yonsei CS
-- **Minsung Cho** @ Yonsei ME and CS
-- **Yejun Chun** @ Yonsei AI
+- **Seongyong Park** @ BS, Yonsei CS
+- **Minjae Kang** @ BS, SKKU EE
+- **Seoyeon Kim** @ BS, Yonsei Applied Statistics
+- **Youngji Roh** @ BS, Yonsei Biotechnology
+- **Jimyung Hong** @ BS, Yonsei AI
+- **[Chanjoo Jung](https://sites.google.com/view/chanjoojung/)** @ BS, Yonsei Econ. and CS
+- **Youngjoo Lee** @ BS, Yonsei CS
+- **Minsung Cho** @ BS, Yonsei ME and CS
+- **Yejun Chun** @ BS, Yonsei AI
+- **Seongyong Park** @ MS, Yonsei Digital Analytics
 
