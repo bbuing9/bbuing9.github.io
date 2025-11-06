@@ -41,5 +41,5 @@ page_class: no-title
 - **Youngjoo Lee** @ BS, Yonsei CS
 - **Minsung Cho** @ BS, Yonsei ME and CS
 - **Yejun Chun** @ BS, Yonsei AI
-- **Seongyong Park** @ MS, Yonsei Digital Analytics
+- **Jihoon Lee** @ MS, Yonsei Digital Analytics
 
