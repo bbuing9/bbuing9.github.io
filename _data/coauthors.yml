@@ -1,6 +1,10 @@
-"kang":
-  - firstname: ["Dongyeop"]
-    url: https://dykang.github.io/
+"cho":
+  - firstname: ["beomsik"]
+    url: https://bscho333.notion.site/
+    
+"kwak":
+  - firstname: ["Minju"]
+    url: https://minjugwak.netlify.app/
 
 "kim":
   - firstname: ["Jaehyung"]
@@ -9,18 +13,11 @@
   - firstname: ["Dongyoung"]
     url: https://kingdy2002.github.io/
 
-"lee":
-  - firstname: ["Dongha"]
-    url: https://donalee.github.io/
+"seo":
+  - firstname: ["Youngbin"]
+    url: https://ybseo-ac.github.io/
+    
+"jung":
+  - firstname: ["Chanjoo"]
+    url: https://sites.google.com/view/chanjoojung/
 
-"shin":
-  - firstname: ["Jinwoo"]
-    url: https://alinlab.kaist.ac.kr/shin.html
-
-"yang":
-  - firstname: ["Yiming"]
-    url: https://www.cs.cmu.edu/~yiming/
-
-"yeo":
-  - firstname: ["Jinyoung"]
-    url: https://jinyeo.weebly.com/
