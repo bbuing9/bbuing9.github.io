@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-22 15:59:00-0400
+date: 2024-09-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-**CoBB** is accepted to EMNLP 2024!
+**[CoBB](https://arxiv.org/abs/2406.18695)** is accepted to EMNLP 2024!
