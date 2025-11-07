@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Fermi** is accepted to NAACL 2025!
+**[Fermi](https://aclanthology.org/2025.naacl-long.598/)** is accepted to NAACL 2025!
