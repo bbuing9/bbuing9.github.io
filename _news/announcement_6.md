@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**ReVise** is accepted to ICML 2025!
+**[ReVise](https://arxiv.org/abs/2502.14565)** is accepted to ICML 2025!
