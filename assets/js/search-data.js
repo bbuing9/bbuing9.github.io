@@ -42,7 +42,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-revise-is-accepted-to-icml-2025",
+            },},{id: "news-spa-is-accepted-to-iclr-2025-as-oral-presentation-207-11672-1-77",
+          title: 'SPA is accepted to ICLR 2025 as Oral Presentation (207/11672=1.77%)!',
+          description: "",
+          section: "News",},{id: "news-fermi-is-accepted-to-naacl-2025",
+          title: 'Fermi is accepted to NAACL 2025!',
+          description: "",
+          section: "News",},{id: "news-revise-is-accepted-to-icml-2025",
           title: 'ReVise is accepted to ICML 2025!',
           description: "",
           section: "News",},{id: "news-two-papers-msr-and-pfp-are-accepted-to-acl-2025",
