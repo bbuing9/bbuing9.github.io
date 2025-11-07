@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent News
+title: All News
 permalink: /news/
 ---
 
