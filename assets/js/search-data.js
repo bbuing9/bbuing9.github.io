@@ -42,11 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-spa-is-accepted-to-iclr-2025-as-oral-presentation-207-11672-1-77",
-          title: 'SPA is accepted to ICLR 2025 as Oral Presentation (207/11672=1.77%)!',
+            },},{id: "news-jaehyung-joined-yonsei-university-as-an-assistant-professor-in-ai",
+          title: 'Jaehyung joined Yonsei University as an assistant professor in AI!',
           description: "",
-          section: "News",},{id: "news-jaehyung-joined-yonsei-university-as-an-assistant-professor-in-ai",
-          title: 'Jaehyung joined Yonsei University as an assistant professor in AI',
+          section: "News",},{id: "news-spa-is-accepted-to-iclr-2025-as-oral-presentation-207-11672-1-77",
+          title: 'SPA is accepted to ICLR 2025 as Oral Presentation (207/11672=1.77%)!',
           description: "",
           section: "News",},{id: "news-fermi-is-accepted-to-naacl-2025",
           title: 'Fermi is accepted to NAACL 2025!',
